@@ -1,0 +1,29 @@
+{
+  "version": "a0.1",
+  "name": "Inverter Market",
+  "description": "Inverter Market - it's a app store for Firefox OS",
+  "launch_path": "/index.html",
+  "icons": {
+    "16": "/img/icons/icon16x16.png",
+    "48": "/img/icons/icon48x48.png",
+    "60": "/img/icons/icon60x60.png",
+    "128": "/img/icons/icon128x128.png"
+  },
+  "developer": {
+    "name": "Inverter Work Group",
+    "url": "https//inverterworkgroup.netlify.com"
+  },
+  "type": "privileged",
+  "permissions": {},
+  "installs_allowed_from": [
+    "*"
+  ],
+  "locales": {
+    "ru": {
+      "name": "Инвертер Маркет",
+      "description": "Инвертер Маркет - ето магазин приложений для ФайерФокс ОС",
+      "permissions": {}
+    }
+  },
+  "default_locale": "en"
+}
