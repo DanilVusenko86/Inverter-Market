@@ -1,4 +1,4 @@
-<img src="img/icons/icon128x128.png" width="150px"><h2>Inverter Market</h2>
+<img src="img/icons/icon128x128.png" width="150px">
 
 <h1>Inverter Market</h1>
 <p>Inverter Market - it's a app store for FireFox OS</p>
